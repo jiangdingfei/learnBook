@@ -3,3 +3,4 @@
 node_modules
 yarn.lock
 pacakage-lock.json
+.DS_Store
