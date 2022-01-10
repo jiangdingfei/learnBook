@@ -7,7 +7,7 @@ export class Queue {
     }
 
     /**
-     * 向队列五部添加一个（或多个)新的项
+     * 向队列尾部添加一个（或多个)新的项
      * @param {*} element 元素
      */
     enqueue(element) {
